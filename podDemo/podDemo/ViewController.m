@@ -22,7 +22,6 @@
     NSLog(@"pull request");
     NSLog(@"pull request");
     NSLog(@"pull request");
-    NSLog(@"pull request");
 
 }
 
